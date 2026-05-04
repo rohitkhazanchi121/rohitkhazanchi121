@@ -10,7 +10,7 @@
 
 # Projects
 
-[MCP MIDDLEWARE (https://github.com/rohitkhazanchi121/mcp_middleware)]: This demo projects showcase how to limits the tools usage to your LLM, remove tool usage confusion for LLM and also reduces the token usage.
+[MCP MIDDLEWARE](https://github.com/rohitkhazanchi121/mcp_middleware): This demo projects showcase how to limits the tools usage to your LLM, remove tool usage confusion for LLM and also reduces the token usage.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohitkhazanchi121&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
