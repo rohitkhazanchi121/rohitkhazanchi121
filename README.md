@@ -12,6 +12,8 @@
 
 [MCP MIDDLEWARE](https://github.com/rohitkhazanchi121/mcp_middleware): This demo projects showcase how to limits the tools usage to your LLM, remove tool usage confusion for LLM and also reduces the token usage.
 
+[PROMPT INJECTION SECURITY](https://github.com/rohitkhazanchi121/prompt_inject_security_layer): This production grade project Security-focused LLM application showcasing a 4-layer guardrail design to resist prompt injection attacks and restricted data exfiltration.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohitkhazanchi121&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rohitkhazanchi121&theme=dark&hide_border=false)<br/>
